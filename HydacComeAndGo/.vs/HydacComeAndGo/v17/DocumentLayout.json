@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\emilk\\source\\repos\\DM-Hydac-1.Semester\\HydacComeAndGo\\",
+  "WorkspaceRootPath": "C:\\Users\\asse_\\Desktop\\Git VS\\Mibzo1\\DM-Hydac-1.Semester\\HydacComeAndGo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D280069A-38C8-4450-A542-1B22487B86FA}|HydacComeAndGo\\HydacComeAndGo.csproj|c:\\users\\emilk\\source\\repos\\dm-hydac-1.semester\\hydaccomeandgo\\hydaccomeandgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D280069A-38C8-4450-A542-1B22487B86FA}|HydacComeAndGo\\HydacComeAndGo.csproj|c:\\users\\asse_\\desktop\\git vs\\mibzo1\\dm-hydac-1.semester\\hydaccomeandgo\\hydaccomeandgo\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D280069A-38C8-4450-A542-1B22487B86FA}|HydacComeAndGo\\HydacComeAndGo.csproj|solutionrelative:hydaccomeandgo\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D280069A-38C8-4450-A542-1B22487B86FA}|HydacComeAndGo\\HydacComeAndGo.csproj|c:\\users\\asse_\\desktop\\git vs\\mibzo1\\dm-hydac-1.semester\\hydaccomeandgo\\hydaccomeandgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D280069A-38C8-4450-A542-1B22487B86FA}|HydacComeAndGo\\HydacComeAndGo.csproj|solutionrelative:hydaccomeandgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,10 +23,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Git VS\\Mibzo1\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\Guest.cs",
+              "RelativeDocumentMoniker": "HydacComeAndGo\\Guest.cs",
+              "ToolTip": "C:\\Users\\asse_\\Desktop\\Git VS\\Mibzo1\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\Guest.cs",
+              "RelativeToolTip": "HydacComeAndGo\\Guest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:47:30.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\emilk\\source\\repos\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Git VS\\Mibzo1\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\Program.cs",
               "RelativeDocumentMoniker": "HydacComeAndGo\\Program.cs",
-              "ToolTip": "C:\\Users\\emilk\\source\\repos\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\Program.cs",
+              "ToolTip": "C:\\Users\\asse_\\Desktop\\Git VS\\Mibzo1\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\Program.cs",
               "RelativeToolTip": "HydacComeAndGo\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
