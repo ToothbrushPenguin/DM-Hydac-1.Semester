@@ -8,11 +8,16 @@
     "net8.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\Niko\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\asse_\\.nuget\\packages\\": {}
+>>>>>>> 48b162172ed6bd067ed51faad2650cf60f4a5a56
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Niko\\source\\repos\\Hydac\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\HydacComeAndGo.csproj",
       "projectName": "HydacComeAndGo",
       "projectPath": "C:\\Users\\Niko\\source\\repos\\Hydac\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\HydacComeAndGo.csproj",
@@ -21,6 +26,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Niko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "C:\\Users\\asse_\\Desktop\\Git VS\\Mibzo1\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\HydacComeAndGo.csproj",
+      "projectName": "HydacComeAndGo",
+      "projectPath": "C:\\Users\\asse_\\Desktop\\Git VS\\Mibzo1\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\HydacComeAndGo.csproj",
+      "packagesPath": "C:\\Users\\asse_\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\asse_\\Desktop\\Git VS\\Mibzo1\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\asse_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 48b162172ed6bd067ed51faad2650cf60f4a5a56
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

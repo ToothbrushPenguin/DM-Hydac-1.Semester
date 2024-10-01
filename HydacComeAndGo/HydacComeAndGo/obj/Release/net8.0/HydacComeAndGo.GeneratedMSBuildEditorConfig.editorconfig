@@ -8,10 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HydacComeAndGo
-<<<<<<< HEAD
-build_property.ProjectDir = C:\Users\Niko\source\repos\Hydac\DM-Hydac-1.Semester\HydacComeAndGo\HydacComeAndGo\
-=======
 build_property.ProjectDir = C:\Users\asse_\Desktop\Git VS\Mibzo1\DM-Hydac-1.Semester\HydacComeAndGo\HydacComeAndGo\
->>>>>>> 48b162172ed6bd067ed51faad2650cf60f4a5a56
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
