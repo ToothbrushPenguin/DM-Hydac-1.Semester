@@ -6,14 +6,23 @@ using System.Threading.Tasks;
 
 namespace HydacComeAndGo
 {
-    public class Employee
+    public class Employee : Person
     {
+        
+        
         private string personelGroupe;
-        private List<Guest> responsible;
         public string PersonelGroupe
         {
             get { return personelGroupe; }
             set { personelGroupe = value; }
         }
+        private List<Guest> responsible;
+        public List<Guest> Responsible
+        {
+            get { return responsible; }
+            set { responsible = value; }
+        }
+
+
     }
 }

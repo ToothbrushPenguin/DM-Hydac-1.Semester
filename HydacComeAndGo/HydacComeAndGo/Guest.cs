@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HydacComeAndGo
 {
-    public class Guest
+    public class Guest : Person
     {
         private string company;
 

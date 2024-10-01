@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace HydacComeAndGo
 {
-    internal class Log
+    public class Log
     {
         private DateTime arrival;
         public DateTime Arrival
