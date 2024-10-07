@@ -1,10 +1,20 @@
-﻿namespace HydacComeAndGo
+﻿using System.Runtime.CompilerServices;
+
+namespace HydacComeAndGo
 {
-    internal class Program
+    public class Program
     {
+
+
+        private Menu mainMenu;
+
+        private List<Guest> guest;
+        private List<Employee> employee;
+
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+          
         }
     }
+
 }
