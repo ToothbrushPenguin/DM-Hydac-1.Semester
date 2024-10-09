@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sP65kj7Pqes=",
+  "dgSpecHash": "//viDJEhYu0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sebas\\OneDrive\\Skrivebord\\DM S1\\Hydac\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\HydacComeAndGo.csproj",
+  "projectFilePath": "C:\\Users\\asse_\\Desktop\\Github repo\\Hydac projekt\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\HydacComeAndGo.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\Sebas\\OneDrive\\Skrivebord\\DM S1\\Hydac\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

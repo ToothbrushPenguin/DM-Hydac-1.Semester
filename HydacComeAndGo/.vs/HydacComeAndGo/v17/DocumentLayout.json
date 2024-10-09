@@ -1,25 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sebas\\OneDrive\\Skrivebord\\DM S1\\Hydac\\DM-Hydac-1.Semester\\HydacComeAndGo\\",
+  "WorkspaceRootPath": "C:\\Users\\asse_\\Desktop\\Github repo\\Hydac projekt\\DM-Hydac-1.Semester\\HydacComeAndGo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D280069A-38C8-4450-A542-1B22487B86FA}|HydacComeAndGo\\HydacComeAndGo.csproj|c:\\users\\sebas\\onedrive\\skrivebord\\dm s1\\hydac\\dm-hydac-1.semester\\hydaccomeandgo\\hydaccomeandgo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D280069A-38C8-4450-A542-1B22487B86FA}|HydacComeAndGo\\HydacComeAndGo.csproj|solutionrelative:hydaccomeandgo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D280069A-38C8-4450-A542-1B22487B86FA}|HydacComeAndGo\\HydacComeAndGo.csproj|c:\\users\\asse_\\desktop\\github repo\\hydac projekt\\dm-hydac-1.semester\\hydaccomeandgo\\hydaccomeandgo\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D280069A-38C8-4450-A542-1B22487B86FA}|HydacComeAndGo\\HydacComeAndGo.csproj|solutionrelative:hydaccomeandgo\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D280069A-38C8-4450-A542-1B22487B86FA}|HydacComeAndGo\\HydacComeAndGo.csproj|c:\\users\\sebas\\onedrive\\skrivebord\\dm s1\\hydac\\dm-hydac-1.semester\\hydaccomeandgo\\hydaccomeandgo\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D280069A-38C8-4450-A542-1B22487B86FA}|HydacComeAndGo\\HydacComeAndGo.csproj|c:\\users\\asse_\\desktop\\github repo\\hydac projekt\\dm-hydac-1.semester\\hydaccomeandgo\\hydaccomeandgo\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D280069A-38C8-4450-A542-1B22487B86FA}|HydacComeAndGo\\HydacComeAndGo.csproj|solutionrelative:hydaccomeandgo\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D280069A-38C8-4450-A542-1B22487B86FA}|HydacComeAndGo\\HydacComeAndGo.csproj|c:\\users\\sebas\\onedrive\\skrivebord\\dm s1\\hydac\\dm-hydac-1.semester\\hydaccomeandgo\\hydaccomeandgo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D280069A-38C8-4450-A542-1B22487B86FA}|HydacComeAndGo\\HydacComeAndGo.csproj|solutionrelative:hydaccomeandgo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D280069A-38C8-4450-A542-1B22487B86FA}|HydacComeAndGo\\HydacComeAndGo.csproj|c:\\users\\sebas\\onedrive\\skrivebord\\dm s1\\hydac\\dm-hydac-1.semester\\hydaccomeandgo\\hydaccomeandgo\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D280069A-38C8-4450-A542-1B22487B86FA}|HydacComeAndGo\\HydacComeAndGo.csproj|c:\\users\\asse_\\desktop\\github repo\\hydac projekt\\dm-hydac-1.semester\\hydaccomeandgo\\hydaccomeandgo\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D280069A-38C8-4450-A542-1B22487B86FA}|HydacComeAndGo\\HydacComeAndGo.csproj|solutionrelative:hydaccomeandgo\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D280069A-38C8-4450-A542-1B22487B86FA}|HydacComeAndGo\\HydacComeAndGo.csproj|c:\\users\\sebas\\onedrive\\skrivebord\\dm s1\\hydac\\dm-hydac-1.semester\\hydaccomeandgo\\hydaccomeandgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D280069A-38C8-4450-A542-1B22487B86FA}|HydacComeAndGo\\HydacComeAndGo.csproj|c:\\users\\asse_\\desktop\\github repo\\hydac projekt\\dm-hydac-1.semester\\hydaccomeandgo\\hydaccomeandgo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D280069A-38C8-4450-A542-1B22487B86FA}|HydacComeAndGo\\HydacComeAndGo.csproj|solutionrelative:hydaccomeandgo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D280069A-38C8-4450-A542-1B22487B86FA}|HydacComeAndGo\\HydacComeAndGo.csproj|c:\\users\\asse_\\desktop\\github repo\\hydac projekt\\dm-hydac-1.semester\\hydaccomeandgo\\hydaccomeandgo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D280069A-38C8-4450-A542-1B22487B86FA}|HydacComeAndGo\\HydacComeAndGo.csproj|solutionrelative:hydaccomeandgo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D280069A-38C8-4450-A542-1B22487B86FA}|HydacComeAndGo\\HydacComeAndGo.csproj|c:\\users\\asse_\\desktop\\github repo\\hydac projekt\\dm-hydac-1.semester\\hydaccomeandgo\\hydaccomeandgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D280069A-38C8-4450-A542-1B22487B86FA}|HydacComeAndGo\\HydacComeAndGo.csproj|solutionrelative:hydaccomeandgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,40 +34,52 @@
       "DocumentGroups": [
         {
           "DockedWidth": 205,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Guest.cs",
-              "DocumentMoniker": "C:\\Users\\Sebas\\OneDrive\\Skrivebord\\DM S1\\Hydac\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\Guest.cs",
-              "RelativeDocumentMoniker": "HydacComeAndGo\\Guest.cs",
-              "ToolTip": "C:\\Users\\Sebas\\OneDrive\\Skrivebord\\DM S1\\Hydac\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\Guest.cs",
-              "RelativeToolTip": "HydacComeAndGo\\Guest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T13:58:16.509Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\Sebas\\OneDrive\\Skrivebord\\DM S1\\Hydac\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\Person.cs",
-              "RelativeDocumentMoniker": "HydacComeAndGo\\Person.cs",
-              "ToolTip": "C:\\Users\\Sebas\\OneDrive\\Skrivebord\\DM S1\\Hydac\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\Person.cs",
-              "RelativeToolTip": "HydacComeAndGo\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Github repo\\Hydac projekt\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\Menu.cs",
+              "RelativeDocumentMoniker": "HydacComeAndGo\\Menu.cs",
+              "ToolTip": "C:\\Users\\asse_\\Desktop\\Github repo\\Hydac projekt\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\Menu.cs",
+              "RelativeToolTip": "HydacComeAndGo\\Menu.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T13:57:10.833Z",
+              "WhenOpened": "2024-10-07T10:43:44.37Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Github repo\\Hydac projekt\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\Guest.cs",
+              "RelativeDocumentMoniker": "HydacComeAndGo\\Guest.cs",
+              "ToolTip": "C:\\Users\\asse_\\Desktop\\Github repo\\Hydac projekt\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\Guest.cs",
+              "RelativeToolTip": "HydacComeAndGo\\Guest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:58:16.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Github repo\\Hydac projekt\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\Person.cs",
+              "RelativeDocumentMoniker": "HydacComeAndGo\\Person.cs",
+              "ToolTip": "C:\\Users\\asse_\\Desktop\\Github repo\\Hydac projekt\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\Person.cs",
+              "RelativeToolTip": "HydacComeAndGo\\Person.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:57:10.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\Sebas\\OneDrive\\Skrivebord\\DM S1\\Hydac\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\Employee.cs",
+              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Github repo\\Hydac projekt\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\Employee.cs",
               "RelativeDocumentMoniker": "HydacComeAndGo\\Employee.cs",
-              "ToolTip": "C:\\Users\\Sebas\\OneDrive\\Skrivebord\\DM S1\\Hydac\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\Employee.cs",
+              "ToolTip": "C:\\Users\\asse_\\Desktop\\Github repo\\Hydac projekt\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\Employee.cs",
               "RelativeToolTip": "HydacComeAndGo\\Employee.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -71,27 +87,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Log.cs",
-              "DocumentMoniker": "C:\\Users\\Sebas\\OneDrive\\Skrivebord\\DM S1\\Hydac\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\Log.cs",
-              "RelativeDocumentMoniker": "HydacComeAndGo\\Log.cs",
-              "ToolTip": "C:\\Users\\Sebas\\OneDrive\\Skrivebord\\DM S1\\Hydac\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\Log.cs",
-              "RelativeToolTip": "HydacComeAndGo\\Log.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Github repo\\Hydac projekt\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\Program.cs",
+              "RelativeDocumentMoniker": "HydacComeAndGo\\Program.cs",
+              "ToolTip": "C:\\Users\\asse_\\Desktop\\Github repo\\Hydac projekt\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\Program.cs",
+              "RelativeToolTip": "HydacComeAndGo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T13:45:19.869Z"
+              "WhenOpened": "2024-10-01T13:45:19.959Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sebas\\OneDrive\\Skrivebord\\DM S1\\Hydac\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\Program.cs",
-              "RelativeDocumentMoniker": "HydacComeAndGo\\Program.cs",
-              "ToolTip": "C:\\Users\\Sebas\\OneDrive\\Skrivebord\\DM S1\\Hydac\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\Program.cs",
-              "RelativeToolTip": "HydacComeAndGo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Github repo\\Hydac projekt\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\Log.cs",
+              "RelativeDocumentMoniker": "HydacComeAndGo\\Log.cs",
+              "ToolTip": "C:\\Users\\asse_\\Desktop\\Github repo\\Hydac projekt\\DM-Hydac-1.Semester\\HydacComeAndGo\\HydacComeAndGo\\Log.cs",
+              "RelativeToolTip": "HydacComeAndGo\\Log.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T13:45:19.959Z"
+              "WhenOpened": "2024-10-01T13:45:19.869Z"
             }
           ]
         }
